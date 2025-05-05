@@ -29,7 +29,7 @@ A minimalist and productivity-focused Chrome Extension that helps you implement 
     - Select the build folder (dist)
 
 2. **From .zip file**
-    - Download the zip file
+    - Download the zip file [(click here)](https://github.com/rezakurniawan88/pomodoro-chrome-extension/releases/tag/file)
     - Extract the zip file
     - Visit **chrome://extensions** or open menu **Chrome > More Tools > Extensions**
     - Enable "Developer mode" (toggle top-right)
